@@ -36,7 +36,6 @@ This project is part of the **Roadmap Project - Number Guessing Game** and is ba
     ```
 
 ## Example Output
-    ```ssh
     Welcome to the Number Guessing Game!
     I'm thinking of a number between 1 and 100.
     You have 5 chances to guess the correct number.
@@ -62,9 +61,6 @@ This project is part of the **Roadmap Project - Number Guessing Game** and is ba
 
     Enter your guess: 30
     Congratulations! You guessed the correct number in 4 attempts.
-    ```
 
 ## Link Roadmap
-    ```
     https://roadmap.sh/projects/number-guessing-game
-    ```
